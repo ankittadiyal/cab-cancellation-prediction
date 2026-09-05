@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Keep the generated project data and models tracked
+# data/*.csv
+# models/*.pkl
